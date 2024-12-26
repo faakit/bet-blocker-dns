@@ -6,7 +6,9 @@ Um Serviço de DNS para Bloqueio de Sites de Apostas
 
 ## Utilização
 
-Para utilizar o serviço disponibilizado, configure o DNS primário de sua máquina para `174.138.124.37`, ou, configur o provedor de DNS privado `betblock.andrealtoe.me`
+> Atualmente não há servidor disponibilizado para este projeto, sinta-se livre para hospedar um.
+
+~Para utilizar o serviço disponibilizado, configure o DNS primário de sua máquina para `174.138.124.37`, ou, configur o provedor de DNS privado `betblock.andrealtoe.me`~
 
 > Não se esqueça de configurar um DNS secundário de sua preferência, para o caso de indisponibilidade do serviço primário.
 
